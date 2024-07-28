@@ -1,6 +1,6 @@
 # My portfolio
 
-# [Project 1 - Research analysis](https://github.com/RudkovYaroslav/research_analysis/blob/main/research_analysis.ipynb)
+# [Project 1 - Research analysis](https://github.com/RudkovYaroslav/research_analysis?tab=readme-ov-file)
 
 The first independent project, which is done in Jupyter Notebook. The main goal is to show basic skills in data preprocessing and research analysis. During the project:
 - Using the pandas library examined the DataFrame that was provided
@@ -8,7 +8,7 @@ The first independent project, which is done in Jupyter Notebook. The main goal 
 - Carried out an exploratory analysis to find out the dependencies of apartment parameters on their price.
 - Based on the data obtained, conclusions were drawn and recommendations were made
 
-# [Project 2 - Statistical analysis](https://github.com/RudkovYaroslav/project_2/blob/main/project_bykes_GoFast.ipynb)
+# [Project 2 - Statistical analysis](https://github.com/RudkovYaroslav/project_2)
 
 The second project, done also in Jupyter Notebook. During the project:
 - As before, performed a pre-processing and research analysis
@@ -17,7 +17,7 @@ The second project, done also in Jupyter Notebook. During the project:
 - Considered some pre-specified hypotheses. Using the functionality of the scipy library, as well as the concept of p value, drew conclusions in favor of disproving or not disproving the hypotheses.
 - Drew conclusions and recommendations based on the analysis performed
 
-# [Project 3 - Assembled](https://github.com/RudkovYaroslav/project_gaming/blob/main/Игровая_индустрия_1980_2016.ipynb)
+# [Project 3 - Assembled](https://github.com/RudkovYaroslav/project_gaming)
 
 A third project that reflects knowledge of the entire data analysis unit in Python. It included:
 - Using the pandas library at an advanced level
@@ -29,7 +29,7 @@ During the project:
 - Evaluated profitable platforms, genres of video games to invest in advertising
 - Drew conclusions and made recommendations for the company based on the conducted analysis
 
-# [Project 4 - Personal project](https://github.com/RudkovYaroslav/spotify_project/blob/main/Spotify.ipynb)
+# [Project 4 - Personal project](https://github.com/RudkovYaroslav/spotify_project)
 
 During a break in my studies, I started my own project. It became interesting to analyze data on artists and their works on spotify. During the course of the project:
 - Used the even more advanced functionality of pandas, including knowledge of python, to create my own algorithms to cull certain data
@@ -37,7 +37,7 @@ During a break in my studies, I started my own project. It became interesting to
 - Noted the growing trend of utilization of streaming services, as well as the low market saturation at the moment.
 - Drew conclusions on the results of the analysis
 
-# [Project 5 - Business analysis](https://github.com/RudkovYaroslav/project_business/blob/main/Business_analysis.ipynb)
+# [Project 5 - Business analysis](https://github.com/RudkovYaroslav/project_business)
 
 The fifth project is aimed at studying business aspects, specifically analyzing advertising costs in order to find weaknesses. In the course of the analysis:
 - “raw” data was taken about users, channels of their attraction, as well as the cost of these channels and, importantly, the profit from users
