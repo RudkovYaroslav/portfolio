@@ -73,3 +73,31 @@ The fifth project took a more in-depth dive into the very essence of conducting 
    - I took into account the abnormal values in these groups.
    - Conducted Mann-Whitney tests on “raw” and “clean” data, drew conclusions on the results obtained
 - As a result, I made a general conclusion, in which I decided to stop the test in view of the success of one of the groups both on the graphs and in stat tests
+
+## [Project 6 - Moscow Catering Market](https://github.com/RudkovYaroslav/Moscow_catering_industry)
+
+The sixth project is devoted to visualization and many aspects related to it. On the case study, using real data of Moscow catering establishments it was necessary with the help of visualizations to provide the most understandable information to the customer on a specific request, having previously studied the data. In the course of the project:
+- Took data on the state of the Moscow catering market for 2022
+- During EDA analyzed the data in order to find the most important parameters in the basis of the establishment
+- Based on the graphs(Also geographical data), drew intermediate conclusions before proceeding to solve the problem from the customer:
+  - Reviewed the important aspects found earlier in order to establish a coffee shop
+  - Found the criteria that should be relied on when founding this type of establishment.
+  - Gave recommendations on these criteria
+- As a result, I drew a general conclusion and also prepared a presentation for the customer.
+
+## [Project 7 - Working in Tableau](https://public.tableau.com/app/profile/jessie.mccree/viz/Practicum_Viz/sheet21?publish=yes)
+The seventh project was completely done in Tableau. The task was to build several dashboards based on TED talks, divided into topics. While working on the dashboards:
+- Various graphical representations of information were prepared
+- Tableau functionality on interaction between charts (Action) was realized.
+- Worked on the stylistics of the prepared dashboards to make them look visually convenient and beautiful.
+- Derived the most important information, which may be of interest to the customer or the average user, from the provided data.
+
+## [Project 8(Graduation) - “Telecom” Finding sub-optimal rate customers](https://github.com/RudkovYaroslav/graduation_project)
+
+Graduation project summarizes all the knowledge in data analytics that I learned in the course. A case study that is as close to the real world as possible. The task was to provide to customer a brief squeeze of the available data and show the findings in a presentation. During the project:
+- Used data on telecom provider's clients, their tariffs and the tariff plans themselves
+- After extensive preprocessing, performed exploratory analysis to find interesting dependencies, and prepared and aggregated data to calculate client costs by tariffs
+- I was able to combine the information and derive a generalized average value of customer costs, which could be used to calculate the percentage of users who use suboptimal tariffs.
+- Prepared the obtained information in a convenient form for the customer, as well as created informative visualizations of the findings
+- Tested the hypotheses set by the customer before starting the study
+- Compiled a general conclusion and prepared presentation material to be presented to the customer
