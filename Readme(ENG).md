@@ -24,6 +24,8 @@ ___________
 Projects implemented in the course of training at Yandex - Practicum
 ____________
 
+![image](https://github.com/user-attachments/assets/7130bf3e-ac58-42a7-81ea-c31f3591a68f)
+
 ## [Project 1 - Research analysis](https://github.com/RudkovYaroslav/research_analysis?tab=readme-ov-file)
 
 The first independent project, which is done in Jupyter Notebook. The main goal is to show basic skills in data preprocessing and research analysis. During the project:
