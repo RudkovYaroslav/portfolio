@@ -18,6 +18,14 @@ My second pet project. The main goal is to simplify the fulfillment of the achie
 - Sorted and transformed the information in the collected dataframes
 - Transferred all results to an excel file
 
+## [Project 3 - E-Commerce](https://github.com/RudkovYaroslav/E-Commerce)
+
+This was my third personal project, aimed at building a complete analytical workflow: from validating and processing raw data to visualizing results and drawing business conclusions. As part of the project:
+- Used PostgreSQL to verify data quality, calculate key business metrics, and aggregate data
+- Identified an incorrect comparison of reporting periods due to incomplete data for one of the years and adjusted the calculations for a comparable analysis
+- Analyzed trends in revenue, order volume, and average and median order value
+- Transferred the prepared data to Jupyter Notebook and visualized key metrics using Python
+- Formulated conclusions about the current state of the business and changes in purchasing patterns
 ___________
 # Study projects
 
